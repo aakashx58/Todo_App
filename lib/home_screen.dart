@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-
 import 'package:todo_app/constants/colors.dart';
 import 'package:todo_app/widgets/todo_item.dart';
-
 import 'model.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -188,20 +186,20 @@ class _HomeScreenState extends State<HomeScreen> {
   //     title: Row(
   //       mainAxisAlignment: MainAxisAlignment.spaceBetween,
   //       children: [
-  //         // Icon(
-  //         //   Icons.menu,
-  //         //   size: 30,
-  //         // ),
-  //         // Container(
-  //         //   height: 50,
-  //         //   width: 50,
-  //         //   child: ClipRRect(
-  //         //     borderRadius: BorderRadius.circular(25),
-  //         //     child: Image.asset(
-  //         //       'assets/asmi.JPG',
-  //         //     ),
-  //         //   ),
-  //         // ),
+  //         Icon(
+  //           Icons.menu,
+  //           size: 30,
+  //         ),
+  //         Container(
+  //           height: 50,
+  //           width: 50,
+  //           child: ClipRRect(
+  //             borderRadius: BorderRadius.circular(25),
+  //             child: Image.asset(
+  //               'assets/aakash.png',
+  //             ),
+  //           ),
+  //         ),
   //       ],
   //     ),
   //   );
